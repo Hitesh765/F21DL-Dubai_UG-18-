@@ -1,3 +1,4 @@
+Summary:
 D1: Traditional ML Algorithms
     1. Prepared the dataset by encoding and scaling features such as team interactions, venue statistics, and toss decisions.
     2. Trained k-NN, Decision Trees, and Random Forest models, iteratively tuning hyperparameters for optimal performance.
@@ -8,5 +9,9 @@ D2: Traditional ML Algorithms
     2. Compared Random Forest’s ensemble performance against individual models, highlighting its stability and improved accuracy.
     3. Compiled insights from traditional model experiments to guide transitions toward advanced architectures like CNNs.
 
+Challenges:
+Hyperparameter tuning was particularly challenging due to the diverse nature of the data. Achieving high performance across different models required careful feature selection and model configuration.
 
+Next Steps:
+Continue to enhance the performance of traditional models and begin exploring neural network architectures, focusing on MLPs initially.
 
