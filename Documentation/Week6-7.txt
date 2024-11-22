@@ -9,6 +9,10 @@ D2: Clustering
     2. Refined clustering experiments, tuning hyperparameters for both K-Means (e.g., number of clusters) and Hierarchical Clustering (e.g., linkage criteria).
     3. Generated initial visualizations using PCA to project high-dimensional data into 2D, focusing on  identifying overlaps and separations between classes.
 
+References:
+References:
+H. Liu and H. Motoda, Feature Selection for Knowledge Discovery and Data Mining. Boston, MA: Springer, 1998. [Online]. Available: https://link.springer.com/book/10.1007/978-1-4615-5689-3
+
 Challenges: 
 Determining the optimal number of clusters was challenging due to diverse data characteristics. Interpreting PCA results required deep analysis to make meaningful inferences about the data structure.
 
