@@ -3,5 +3,12 @@ Our group collaboratively worked on two datasets simultaneously: a numerical dat
 D1 - (IPL Dataset)
 D2 - (Sports Ball Image Dataset)
 
+Summary:
 1.Topic selection and Dataset Selection from Kaggle
 2.Work and Task Distribution
+
+Challenges: 
+The primary challenge was selecting datasets that aligned well with our project goals and offered sufficient depth for analysis. Ensuring all team members were on board with the project scope and had a clear understanding of their responsibilities was crucial.
+
+Next Steps: 
+Begin a detailed analysis of the datasets, focusing on understanding the data's characteristics, identifying missing data, and starting preprocessing tasks. Setup regular team meetings for progress updates and troubleshooting.
