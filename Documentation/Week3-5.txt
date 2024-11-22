@@ -13,4 +13,4 @@ Challenges:
 The main challenges included dealing with large volumes of missing data, which required sophisticated imputation strategies, and addressing class imbalance in the image dataset, which necessitated augmentation techniques to ensure model accuracy.
 
 Next Steps: 
-Start building initial machine learning models using the cleaned datasets. Plan to apply clustering techniques to understand inherent groupings within the data.
+Plan to apply clustering techniques to understand inherent groupings within the data.Prepare a detailed plan for integrating clustering insights into feature engineering processes, which will support more sophisticated modeling efforts in subsequent phases.
