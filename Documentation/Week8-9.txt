@@ -9,6 +9,9 @@ D2: Traditional ML Algorithms
     2. Compared Random Forest’s ensemble performance against individual models, highlighting its stability and improved accuracy.
     3. Compiled insights from traditional model experiments to guide transitions toward advanced architectures like CNNs.
 
+References:
+C. M. Bishop, Pattern Recognition and Machine Learning. New York: Springer, 2006. [Online]. Available: https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf
+
 Challenges:
 Hyperparameter tuning was particularly challenging due to the diverse nature of the data. Achieving high performance across different models required careful feature selection and model configuration.
 
