@@ -1,3 +1,4 @@
+Summary:
 D1: Data Analysis, Preprocessing and Exploration
     1. Analyze the columns to determine their relevance to the task.
     2. Identify and handle any missing or inconsistent data.
@@ -7,3 +8,9 @@ D2: Data Preprocessing and EDA
     1. Focused on dataset preprocessing which includes resizing images and normalizing pixel values.
     2. Managing class imbalances by capping the number of images per class to 400.
     3.Conducted Exploratory Data Analysis (EDA) to analyze patterns in the dataset, using visualizations like mean images, standard deviations, and aspect ratio distributions
+
+Challenges: 
+The main challenges included dealing with large volumes of missing data, which required sophisticated imputation strategies, and addressing class imbalance in the image dataset, which necessitated augmentation techniques to ensure model accuracy.
+
+Next Steps: 
+Start building initial machine learning models using the cleaned datasets. Plan to apply clustering techniques to understand inherent groupings within the data.
