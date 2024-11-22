@@ -1,2 +1,7 @@
+Week Work Distribution for Group 18 - DMML
+Our group collaboratively worked on two datasets simultaneously: a numerical dataset (D1: IPL Dataset) and an image dataset (D2: Sports Ball Image Dataset). Weekly meetups were conducted to track progress, discuss challenges, and plan upcoming tasks. Each session ensured effective follow-ups and aligned the group’s efforts toward achieving the project goals for both datasets.
+D1 - (IPL Dataset)
+D2 - (Sports Ball Image Dataset)
+
 1.Topic selection and Dataset Selection from Kaggle
 2.Work and Task Distribution
