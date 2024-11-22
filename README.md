@@ -48,5 +48,5 @@ Predicting the winner of IPL matches based on match data.
 ![061be72b-99bf-43f5-af05-25f11e471857-2](https://github.com/user-attachments/assets/5805003c-491d-4ded-98f9-fdf2c7746f7a)
 
 ## **Data Preparation Pipeline**
-Follow the steps mentioned here: [Python Scripts/Readme.md](
+Follow the steps mentioned here: [Python Scripts/Readme.md](https://github.com/Hitesh765/F21DL-Dubai_UG-18-/blob/main/Python%20Scripts/Readme.md)
 
