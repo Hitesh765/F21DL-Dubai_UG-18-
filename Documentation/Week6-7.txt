@@ -1,0 +1,10 @@
+D1: Clustering
+    1. Scaled venue metrics, team performance, and toss statistics to prepare data for clustering.
+    2. Applied K-Means with different cluster sizes, assessing quality through silhouette scores and visualizing results using scatter plots.
+    3. Adjusted features like result margins and toss-win ratios to identify meaningful patterns in the data.
+
+D2: Clustering
+    1. Experimented with varying the number of clusters to assess their impact on accuracy and separability.
+    2. Refined clustering experiments, tuning hyperparameters for both K-Means (e.g., number of clusters) and Hierarchical Clustering (e.g., linkage criteria).
+    3.Generated initial visualizations using PCA to project high-dimensional data into 2D, focusing on identifying overlaps and separations between classes.
+

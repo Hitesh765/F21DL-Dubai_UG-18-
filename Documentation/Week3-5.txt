@@ -1,0 +1,9 @@
+D1: Data Analysis, Preprocessing and Exploration
+    1. Analyze the columns to determine their relevance to the task.
+    2. Identify and handle any missing or inconsistent data.
+    3. Clean the data by removing null or duplicate entries.
+
+D2: Data Preprocessing and EDA
+    1. Focused on dataset preprocessing which includes resizing images and normalizing pixel values.
+    2. Managing class imbalances by capping the number of images per class to 400.
+    3.Conducted Exploratory Data Analysis (EDA) to analyze patterns in the dataset, using visualizations like mean images, standard deviations, and aspect ratio distributions

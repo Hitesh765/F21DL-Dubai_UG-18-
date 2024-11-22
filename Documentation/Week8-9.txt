@@ -1,0 +1,12 @@
+D1: Traditional ML Algorithms
+    1. Prepared the dataset by encoding and scaling features such as team interactions, venue statistics, and toss decisions.
+    2. Trained k-NN, Decision Trees, and Random Forest models, iteratively tuning hyperparameters for optimal performance.
+    3. Analyzed the models' ability to handle feature variability and established baseline results for further experimentation.
+
+D2: Traditional ML Algorithms 
+    1. Conducted detailed analysis of class-specific patterns using visualizations such as mean images and standard deviations to identify key attributes and intra-class variability.
+    2. Compared Random Forest’s ensemble performance against individual models, highlighting its stability and improved accuracy.
+    3. Compiled insights from traditional model experiments to guide transitions toward advanced architectures like CNNs.
+
+
+
