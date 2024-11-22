@@ -9,6 +9,9 @@ D2: Data Preprocessing and EDA
     2. Managing class imbalances by capping the number of images per class to 400.
     3.Conducted Exploratory Data Analysis (EDA) to analyze patterns in the dataset, using visualizations like mean images, standard deviations, and aspect ratio distributions
 
+References:
+G. Shmueli, N. R. Patel, and P. C. Bruce, Data Mining for Business Intelligence: Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner. Hoboken, NJ: Wiley, 2010. [Online]. Available: https://www.wiley.com/en-us/Data+Mining+for+Business+Intelligence%3A+Concepts%2C+Techniques%2C+and+Applications-p-9780470526828
+
 Challenges: 
 The main challenges included dealing with large volumes of missing data, which required sophisticated imputation strategies, and addressing class imbalance in the image dataset, which necessitated augmentation techniques to ensure model accuracy.
 
