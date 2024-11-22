@@ -14,6 +14,6 @@ Challenges:
 Ensuring that the neural networks converged and selecting appropriate architectures posed significant challenges. Comparing the performance of MLPs and CNNs required extensive testing and validation.
 
 Next Steps: 
-Finalize the report and the GitHub Repositry and Submit the coursework before deadline.
+Once the initial models are operational, proceed with hyperparameter tuning through grid search and random search techniques to enhance model efficiency and accuracy. Finalize the report and the GitHub Repositry and Submit the coursework before deadline.
 
 
