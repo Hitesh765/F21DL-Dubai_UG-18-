@@ -1,3 +1,4 @@
+Summary:
 D1: Neural Networks
     1. Implemented an MLP with two hidden layers, using ReLU activation and the Adam optimizer.
     2. Standardized features to enhance convergence and ensure compatibility with neural network models.
@@ -9,5 +10,10 @@ D2: Neural Networks
     3. Implemented a second CNN model with deeper architecture and more parameters.
     4. Compared CNN results, focusing on improved generalization, reduced loss, and higher accuracy compared to MLPs.
 
+Challenges: 
+Ensuring that the neural networks converged and selecting appropriate architectures posed significant challenges. Comparing the performance of MLPs and CNNs required extensive testing and validation.
+
+Next Steps: 
+Finalize the report and the GitHub Repositry and Submit the coursework before deadline.
 
 
