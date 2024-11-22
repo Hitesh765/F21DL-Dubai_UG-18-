@@ -13,4 +13,4 @@ Challenges:
 Determining the optimal number of clusters was challenging due to diverse data characteristics. Interpreting PCA results required deep analysis to make meaningful inferences about the data structure.
 
 Next Steps: 
-Refine clustering models based on insights gained and start developing traditional machine learning models, including Decision Trees and k-NN.
+Focus on the systematic implementation of k-NN, Decision Trees, Random Forests, and Naive Bayes models using the preprocessed data. This will establish a baseline for performance and identify initial strengths and weaknesses in handling the dataset.
